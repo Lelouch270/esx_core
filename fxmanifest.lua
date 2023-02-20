@@ -1,8 +1,8 @@
 fx_version 'adamant'
 
 game 'gta5'
-author 'ESX-Framework'
-description 'cron'
+author 'esx_core'
+description 'Lelouch'
 lua54 'yes'
 version '1.9.2'
 
