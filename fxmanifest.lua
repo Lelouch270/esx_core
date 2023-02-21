@@ -6,7 +6,7 @@ description 'Lelouch'
 lua54 'yes'
 version '1.9.2'
 
-server_script 'async/server/main.lua'
+server_script 'async/async.lua'
 
 server_script 'cron/server/main.lua'
 
